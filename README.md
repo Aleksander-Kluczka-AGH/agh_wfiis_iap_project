@@ -1,4 +1,6 @@
-## Image Analysis and Processing Project
+# Image analysis and processing - Project
+
+Project written for Applied Computer Science **Image analysis and processing** course at [AGH UST](https://www.agh.edu.pl/en) [WFiIS](https://www.fis.agh.edu.pl/en/).
 
 Artificial images of roads creation for GG's course project.
 
@@ -6,8 +8,8 @@ The input for the rest of the algorithm are procedurally generated binary images
 * voronoi diagram with some extra tweaks to make it closer to realistic,
 * cityblock random generator.
 
-Semester 8, year 2023.
+Semester `8`, year `2023`.
 
-### License
+## License
 
-This project is licensed under MIT, a free and open-source license. For more information, please see [the license file](LICENSE.md).
+Sources are licensed under MIT, a free and open-source license. For details, please see [the license file](LICENSE.md).
